@@ -1,3 +1,29 @@
-body {
-  background-color: plum;
+body{
+  font-family: 'Courier Prime', monospace;
+  font-size: 22px
+}
+
+.latIzq{
+  background-image: url(/FondosByNina/img/latDer.jpg);
+  
+}
+
+.latDer{
+  background-image: url(/FondosByNina/img/latDer.jpg);
+}
+
+.button{
+  padding: 1rem 4rem;
+  border-radius: 25px;
+}
+
+.logo {
+  width: 15rem;
+  height: 15rem;
+  justify-content: center;
+}
+
+.icons {
+  text-decoration-line: none;
+  color: black;
 }
