@@ -4,12 +4,14 @@ body{
 }
 
 .latIzq{
-  background-image: url(latDer.jpg);
+  background-image: url(fondo.jpg);
+  object-fit: cover;
   
 }
 
 .latDer{
-  background-image: url(latDer.jpg);
+  background-image: url(fondo.jpg);
+  object-fit: cover;
 }
 
 .button{
@@ -23,7 +25,16 @@ body{
   justify-content: center;
 }
 
+.icon{
+  text-decoration-line: none;
+  color: black;
+
+}
 .icons {
   text-decoration-line: none;
   color: black;
+  font-family: 'Teko', sans-serif;
+  font-size:2rem;
+  font-weight: 300;
+  
 }
